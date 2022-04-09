@@ -1,0 +1,1 @@
+# hack-the-mind-2022-hackathon-website
