@@ -80,3 +80,10 @@ nav a:hover{
 .img2{
 	display:inline;
 }
+.generaltxt{
+    color: rgb(80, 75, 75);
+    margin: 5%;
+    padding: 15%;
+    border: hidden;
+    text-align: center;
+}
