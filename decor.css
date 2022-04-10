@@ -135,6 +135,7 @@ nav a:hover{
 
 body{
 	background-color: black;
+	text-decoration:none
 }
 
 
@@ -146,6 +147,5 @@ body{
 }
 
 .mainbody{
-	background-image: url("https://i.redd.it/2qoh5kvm9tjx.png");
 	text-decoration: none;
 }
