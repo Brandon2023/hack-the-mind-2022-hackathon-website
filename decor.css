@@ -107,6 +107,8 @@ nav a:hover{
     border: hidden;
     text-align: center;
 	background-color: black;
+	font-size: larger;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 
